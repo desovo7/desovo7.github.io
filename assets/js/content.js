@@ -60,7 +60,12 @@ window.HOMEPAGE = {
       url: "",
     },
   ],
-  honors: [],
+  honors: [
+    {
+      date: "",
+      text: { en: "ICPC EC-FINAL Bronze", zh: "ICPC EC-FINAL 铜奖" },
+    },
+  ],
   services: [],
   personal: "",
   updated: { en: "October 2026", zh: "2026 年 10 月" }, // 修改内容后也可以更新这里
